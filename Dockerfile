@@ -7,7 +7,7 @@ RUN java -version
 # Install wget and tar
 RUN apk add wget tar bash
 
-FROM ubuntu
+# FROM ubuntu
 
 LABEL maintainer="test"
 
